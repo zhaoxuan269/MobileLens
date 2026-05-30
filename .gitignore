@@ -1,0 +1,39 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+.DS_Store
+Thumbs.db
+
+# Plastic SCM (using Git)
+.plastic/
+ignore.conf
+
+# Local / accidental
+untitled folder/
+collvis.app/
+*.apk
+*.app
+
+# Unity crash / misc
+sysinfo.txt
+*.pidb
+*.pdb
+*.mdb
+crashlytics-build.properties
