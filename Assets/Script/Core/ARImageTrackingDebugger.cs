@@ -6,6 +6,7 @@ using System.Collections.Generic;
 /// <summary>
 /// AR 图像追踪调试工具
 /// 显示详细的追踪状态和诊断信息
+/// 测试更新一下
 /// </summary>
 public class ARImageTrackingDebugger : MonoBehaviour
 {
